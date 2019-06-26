@@ -1,0 +1,14 @@
+{
+  "name": "03_ejercicio",
+  "version": "1.0.0",
+  "description": "Ejercicio de clase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Williams Vallejo",
+  "license": "MIT",
+  "dependencies": {
+    "number-to-words": "^1.2.4"
+  }
+}
